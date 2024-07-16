@@ -1,1 +1,1 @@
-# A street fighter style fighting game  using pygame
+# A  fighting game  using pygame.
